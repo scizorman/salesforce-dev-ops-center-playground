@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsAdvertiser__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>広告案件でプロモーションされる対象を提供する企業、またはプロモーション対象の企業自身であることを示す真偽値。</description>
+    <externalId>false</externalId>
+    <inlineHelpText>広告案件において、プロモーションされる商品を提供する企業や、その企業自身をプロモーションする場合にチェックを入れてください。</inlineHelpText>
+    <label>広告主フラグ</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
